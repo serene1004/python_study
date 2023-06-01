@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9f7f34c-dcb1-4f93-b464-4c0019ac8ce0" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../10강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13,14강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../9강실습.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../연습01.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../연습02.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="33kBczR7co0XDfunb5tYbqTCnOW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/user/Documents/VSCode/python_study/데이터분석실습"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d9f7f34c-dcb1-4f93-b464-4c0019ac8ce0" name="변경" comment="" />
+      <created>1759851273246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759851273246</updated>
+    </task>
+    <servers />
+  </component>
+</project>
